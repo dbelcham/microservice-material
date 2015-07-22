@@ -12,7 +12,7 @@
 * [Dr Mark Little (Red Hat) on "Microservices 101: The good, the bad and the ugly"](http://www.zdnet.com/article/microservices-101-the-good-the-bad-and-the-ugly/ "")
 * [Voxxed article on "Do Good Microservices Architectures Spell the Death of the Enterprise Service Bus?"](https://www.voxxed.com/blog/2015/01/good-microservices-architectures-death-enterprise-service-bus-part-one/ "")
 * [Jennifer Riggins article on "Agile Management: How to Manage Microservices With Your Team"](http://thenewstack.io/agile-management-how-to-manage-microservices-with-your-team/ "")
-* [Martin Fowerl's series of articles and case studies](http://martinfowler.com/articles/microservices.html)
+* [Martin Fowler's series of articles and case studies](http://martinfowler.com/articles/microservices.html)
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
