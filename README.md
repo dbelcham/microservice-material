@@ -11,6 +11,9 @@
 * [Tammer Saleh's CraftCon 2015 talk on "Microservice Anti-patterns"](http://www.ustream.tv/recorded/61486500 "")
 * [Richard Rodger's Code Motion 2015 talk on "Measuring Microservices"](https://youtu.be/SQYCzAWlrHU?list=FLd2PaRjI5iAGgeld3lCFPNg "")
 * [Adrian Trenaman's CraftCon 2015 talk on "Scaling Microservices at Gilt"](http://www.ustream.tv/recorded/61442163 "")
+* [Martin Fowler's XConf 2014 talk on Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI "")
+* [Ian Cooper's NDC Oslo 2015 talk on "Microservices, cutting through the Gordian Knot"](https://vimeo.com/132194544 "")
+* [Sam Newman's NDC Oslo 2015 talk on "Principles of Microservices"](https://vimeo.com/131632250 "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
