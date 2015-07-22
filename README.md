@@ -28,6 +28,7 @@
 * [Martin Fowler's XConf 2014 talk on Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI "")
 * [Ian Cooper's NDC Oslo 2015 talk on "Microservices, cutting through the Gordian Knot"](https://vimeo.com/132194544 "")
 * [Sam Newman's NDC Oslo 2015 talk on "Principles of Microservices"](https://vimeo.com/131632250 "")
+* ThoughtWorks Microservices Adoption in the Enterprise [Part 1](http://fast.wistia.net/embed/iframe/idp8w1o09i "") -- [Part 2](http://fast.wistia.net/embed/iframe/sqftnruo9s "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
