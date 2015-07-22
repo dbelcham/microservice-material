@@ -13,6 +13,7 @@
 * [Voxxed article on "Do Good Microservices Architectures Spell the Death of the Enterprise Service Bus?"](https://www.voxxed.com/blog/2015/01/good-microservices-architectures-death-enterprise-service-bus-part-one/ "")
 * [Jennifer Riggins article on "Agile Management: How to Manage Microservices With Your Team"](http://thenewstack.io/agile-management-how-to-manage-microservices-with-your-team/ "")
 * [ThoughtWorks article on "Microservices Architecture for Enterprises"](http://www.thoughtworks.com/insights/blog/microservices-architecture-for-enterprises? "")
+* [Martin Fowler's series of articles and case studies](http://martinfowler.com/articles/microservices.html)
 * [Nginx post about "Adopting Microservices at Netflix: Lessons for Architectural Design"](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/ "")
 
 #Books
@@ -30,6 +31,7 @@
 * [Ian Cooper's NDC Oslo 2015 talk on "Microservices, cutting through the Gordian Knot"](https://vimeo.com/132194544 "")
 * [Sam Newman's NDC Oslo 2015 talk on "Principles of Microservices"](https://vimeo.com/131632250 "")
 * ThoughtWorks Microservices Adoption in the Enterprise [Part 1](http://fast.wistia.net/embed/iframe/idp8w1o09i "") -- [Part 2](http://fast.wistia.net/embed/iframe/sqftnruo9s "")
+* [Exploring Microservices in Docker and Azure - Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/training-courses/exploring-microservices-in-docker-and-microsoft-azure)
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
