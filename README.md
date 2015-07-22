@@ -14,6 +14,7 @@
 * [Jennifer Riggins article on "Agile Management: How to Manage Microservices With Your Team"](http://thenewstack.io/agile-management-how-to-manage-microservices-with-your-team/ "")
 * [ThoughtWorks article on "Microservices Architecture for Enterprises"](http://www.thoughtworks.com/insights/blog/microservices-architecture-for-enterprises? "")
 * [Martin Fowler's series of articles and case studies](http://martinfowler.com/articles/microservices.html)
+* [Martin Fowler's Microservices Resource Guide](http://martinfowler.com/microservices/ "")
 * [Nginx post about "Adopting Microservices at Netflix: Lessons for Architectural Design"](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/ "")
 
 #Books
