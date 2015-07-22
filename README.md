@@ -20,6 +20,7 @@
 #Videos
 * [Udi Dahan at µCon 2014 talking about "An Integrated Services Approach"](http://www.udidahan.com/2015/07/21/microservices-presentation-london-2014/ "")
 * [Adrian Cockcroft at DockerCon 2014-EU on "State of the Art in Microservices"](https://www.youtube.com/watch?v=nMTaS07i3jk "")
+* Adrian Cockcroft at the Silicon Valley Microservices Meetup 2014 on Migrating to Microservices [Part 1](https://www.youtube.com/watch?v=1wiMLkXz26M "") -- [Part 2](https://www.youtube.com/watch?v=ebCtNmTVIJY "")
 * [Tammer Saleh's CraftCon 2015 talk on "Microservice Anti-patterns"](http://www.ustream.tv/recorded/61486500 "")
 * [Richard Rodger's Code Motion 2015 talk on "Measuring Microservices"](https://youtu.be/SQYCzAWlrHU?list=FLd2PaRjI5iAGgeld3lCFPNg "")
 * [Adrian Trenaman's CraftCon 2015 talk on "Scaling Microservices at Gilt"](http://www.ustream.tv/recorded/61442163 "")
