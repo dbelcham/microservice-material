@@ -9,9 +9,11 @@
 * [Damian Maclennan on the human benefits of a microservice architecture](http://damianm.com/articles/human-benefits-of-a-microservice-architecture/ "")
 * [Steve Yegge's post on Amazon switching to microservices](https://plus.google.com/+RipRowan/posts/eVeouesvaVX "")
 * [Barry Jones of CodeShip's post on "Exploring Microservices Architecture on Heroku"](http://blog.codeship.com/exploring-microservices-architecture-on-heroku "")
+* [Dr Mark Little (Red Hat) on "Microservices 101: The good, the bad and the ugly"](http://www.zdnet.com/article/microservices-101-the-good-the-bad-and-the-ugly/ "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
+* [O'Reilly - Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/ref=sr_1_sc_1?ie=UTF8&qid=1437578452&sr=8-1-spell&keywords=orielly+microservices "")
 
 #Videos
 * [Udi Dahan at µCon 2014 talking about "An Integrated Services Approach"](http://www.udidahan.com/2015/07/21/microservices-presentation-london-2014/ "")
@@ -25,9 +27,6 @@
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
-
-#Courseware
-*
 
 #Tooling, Techniques and Platforms
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
