@@ -41,3 +41,4 @@
 
 #Tooling, Techniques and Platforms
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
+* Consumer Driven Testing - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
