@@ -34,7 +34,8 @@
 * ThoughtWorks Microservices Adoption in the Enterprise [Part 1](http://fast.wistia.net/embed/iframe/idp8w1o09i "") -- [Part 2](http://fast.wistia.net/embed/iframe/sqftnruo9s "")
 * [Exploring Microservices in Docker and Azure - Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/training-courses/exploring-microservices-in-docker-and-microsoft-azure)
 * [Zhamak Dehghani's talk on "Real World Microservices"](https://www.youtube.com/watch?v=1aaw7iYS_VM "")
-
+* [Sam Newman at FlowCon 2014 talking about "Deploying and Testing Microservices"](https://www.youtube.com/watch?v=FotoHYyY8Bo "")
+* 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
 
