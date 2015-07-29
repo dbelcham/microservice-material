@@ -16,6 +16,8 @@
 * [Martin Fowler's series of articles and case studies](http://martinfowler.com/articles/microservices.html)
 * [Martin Fowler's Microservices Resource Guide](http://martinfowler.com/microservices/ "")
 * [Nginx post about "Adopting Microservices at Netflix: Lessons for Architectural Design"](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/ "")
+* [Joe Emison at The New Stack posting about "Your Lead Architect Doesn't Really Understand Microservices"](http://thenewstack.io/genius-techie-doesnt-really-understand-cloud/ "")
+* [Sami Lamti](http://devxp.blogspot.ca/ "") posts reflecting on what he learned in Sam Newman workshop at NDC [Part 1](http://devxp.blogspot.ca/2015/07/design-and-implementation-of.html "") [Part 2](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_16.html "") [Part 3](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_20.html "") [Part 4](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_26.html "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
@@ -35,11 +37,14 @@
 * [Exploring Microservices in Docker and Azure - Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/training-courses/exploring-microservices-in-docker-and-microsoft-azure)
 * [Zhamak Dehghani's talk on "Real World Microservices"](https://www.youtube.com/watch?v=1aaw7iYS_VM "")
 * [Sam Newman at FlowCon 2014 talking about "Deploying and Testing Microservices"](https://www.youtube.com/watch?v=FotoHYyY8Bo "")
-* 
+* [Rick Fast & Steve Hoffman at DockerCon 15 talking about "Enabling Microservices @ Orbits"](https://www.youtube.com/watch?v=9LAXaR0_a_E "")
+
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
+* [Software Engineering Radio #213: James Lewis on Microservices](http://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices "")
 
 #Tooling, Techniques and Platforms
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
 * Consumer Driven Contracts - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
 * [Fowler on Consumer Driven Contracts](http://martinfowler.com/articles/consumerDrivenContracts.html "")
+* Consul ??
