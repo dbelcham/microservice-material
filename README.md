@@ -46,7 +46,19 @@
 * [.NET Rocks #1150: Building Microservices with Howard Dierking](https://www.dotnetrocks.com/default.aspx?showNum=1150)
 
 #Tooling, Techniques and Platforms
+##Correlation IDs
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
+
+##Consumer Driven Contracts
 * Consumer Driven Contracts - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
 * [Fowler on Consumer Driven Contracts](http://martinfowler.com/articles/consumerDrivenContracts.html "")
+
+##Service Discovery
 * Consul ??
+* Zookeeper
+
+##Resiliency and Reliability
+
+
+##Load Balancing
+* [Baker Street](www.bakerstreet.io "")
