@@ -43,6 +43,7 @@
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
 * [Software Engineering Radio #213: James Lewis on Microservices](http://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices "")
+* [.NET Rocks #1150: Building Microservices with Howard Dierking](https://www.dotnetrocks.com/default.aspx?showNum=1150)
 
 #Tooling, Techniques and Platforms
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
