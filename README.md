@@ -21,6 +21,7 @@
 * [JR D'Amore of ThoughtWorks on Scaling Microservices with an Event Stream](http://www.thoughtworks.com/insights/blog/scaling-microservices-event-stream "")
 * [Graham Lea on "Microservices Security: All the Questions You Should Be Asking"](http://www.grahamlea.com/2015/07/microservices-security-questions/ "")
 * [Gareth Rushgrove's slide deck entitled "Containers and Microservices Make Performance Worse"](https://speakerdeck.com/garethr/containers-and-microservices-make-performance-worse "") (looking for a recording of this talk if anyone knows of one)
+* [Summary of Daniel Bryant's "The Seven Deadly Sins of Microservices: Redux" talk from Devoxx UK 2015](http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
@@ -41,6 +42,7 @@
 * [Zhamak Dehghani's talk on "Real World Microservices"](https://www.youtube.com/watch?v=1aaw7iYS_VM "")
 * [Sam Newman at FlowCon 2014 talking about "Deploying and Testing Microservices"](https://www.youtube.com/watch?v=FotoHYyY8Bo "")
 * [Rick Fast & Steve Hoffman at DockerCon 15 talking about "Enabling Microservices @ Orbits"](https://www.youtube.com/watch?v=9LAXaR0_a_E "")
+* [Daniel Bryant's talk at Devoxx UK 2015 about "The Seven Deadly Sins of Microservices Redux"](http://container-solutions.com/the-seven-deadly-sins-of-microservices-redux/ "") -- Requires account and login to view
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
