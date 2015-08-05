@@ -19,6 +19,7 @@
 * [Joe Emison at The New Stack posting about "Your Lead Architect Doesn't Really Understand Microservices"](http://thenewstack.io/genius-techie-doesnt-really-understand-cloud/ "")
 * [Sami Lamti](http://devxp.blogspot.ca/ "") posts reflecting on what he learned in Sam Newman workshop at NDC [Part 1](http://devxp.blogspot.ca/2015/07/design-and-implementation-of.html "") [Part 2](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_16.html "") [Part 3](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_20.html "") [Part 4](http://devxp.blogspot.ca/2015/07/design-and-implementation-of_26.html "")
 * [JR D'Amore of ThoughtWorks on Scaling Microservices with an Event Stream](http://www.thoughtworks.com/insights/blog/scaling-microservices-event-stream "")
+* [Graham Lea on "Microservices Security: All the Questions You Should Be Asking"](http://www.grahamlea.com/2015/07/microservices-security-questions/ "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
