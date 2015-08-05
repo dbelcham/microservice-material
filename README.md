@@ -43,7 +43,7 @@
 * [Sam Newman at FlowCon 2014 talking about "Deploying and Testing Microservices"](https://www.youtube.com/watch?v=FotoHYyY8Bo "")
 * [Rick Fast & Steve Hoffman at DockerCon 15 talking about "Enabling Microservices @ Orbits"](https://www.youtube.com/watch?v=9LAXaR0_a_E "")
 * [Daniel Bryant's talk at Devoxx UK 2015 about "The Seven Deadly Sins of Microservices Redux"](http://container-solutions.com/the-seven-deadly-sins-of-microservices-redux/ "") -- Requires account and login to view
-* [Phillip Wills talk at QCon talking about "Microservices are (Conceptually) Too Big"](http://www.infoq.com/presentations/microservices-guardian "")
+* [Philip Wills talk at QCon talking about "Microservices are (Conceptually) Too Big"](http://www.infoq.com/presentations/microservices-guardian "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
