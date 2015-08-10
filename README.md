@@ -55,6 +55,7 @@
 #Tooling, Techniques and Platforms
 ##Correlation IDs
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
+* [Loggly talks about "Request IDs"](https://www.loggly.com/blog/monitoring-microservices-three-ways-to-overcome-the-biggest-challenges "")
 
 ##Consumer Driven Contracts
 * Consumer Driven Contracts - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
@@ -63,6 +64,7 @@
 ##Service Discovery
 * Consul ??
 * Zookeeper
+* Eureka
 
 ##Resiliency and Reliability
 
