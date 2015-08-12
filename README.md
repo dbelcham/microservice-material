@@ -46,6 +46,7 @@
 * [Philip Wills talk at QCon talking about "Microservices are (Conceptually) Too Big"](http://www.infoq.com/presentations/microservices-guardian "")
 * [Josh Ellithorp of Apcera talks about "Microservices: Notes From the Field"](https://www.youtube.com/watch?v=aCs9TCEk1Ks&feature=youtu.be "")
 * [Ryan Baxter's talk at DevNexus 2015 about "Think Small Go Big - An Introduction to Microservices"](https://www.youtube.com/watch?v=ssxgX27LGlE "")
+* [Fred George's talk at GoTo Amsterdam 2015 about "Challenges in Implementing MicroServices"](https://www.youtube.com/watch?v=yPf5MfOZPY0 "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
