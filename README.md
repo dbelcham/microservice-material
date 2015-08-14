@@ -23,6 +23,7 @@
 * [Gareth Rushgrove's slide deck entitled "Containers and Microservices Make Performance Worse"](https://speakerdeck.com/garethr/containers-and-microservices-make-performance-worse "") (looking for a recording of this talk if anyone knows of one)
 * [Summary of Daniel Bryant's "The Seven Deadly Sins of Microservices: Redux" talk from Devoxx UK 2015](http://highscalability.com/blog/2015/8/3/seven-of-the-nastiest-anti-patterns-in-microservices.html "")
 * [Stefan Borsje on "How we build microservices at Karma"](https://blog.yourkarma.com/building-microservices-at-karma "")
+* [Toby Clemson's slide deck on "Testing Strategies in a Microservice Architecture"](http://martinfowler.com/articles/microservice-testing/ "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
