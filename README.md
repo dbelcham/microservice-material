@@ -51,6 +51,7 @@
 * [Fred George's talk at GoTo Amsterdam 2015 about "Challenges in Implementing MicroServices"](https://www.youtube.com/watch?v=yPf5MfOZPY0 "")
 * [Scott Triglia's (Yelp) talk at EuroPython 2015 on "Arrested Development - surviving the awkward adolescence of a microservices-based application"](https://www.youtube.com/watch?v=z3_HorshzJ4 "")
 * [Mitchell Hashimoto (creator of Consul) at DevConTLV 2014 talking about "Building Robust Systems with Service Discovery and Configuration"](https://www.youtube.com/watch?v=Kc42bXWOlDg "")
+* [Armon Dadgar at Ricon 2014 talking about "Consul: Service Oriented at Scale"](https://www.youtube.com/watch?v=eR0899h_1Ac "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
