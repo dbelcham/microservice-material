@@ -25,6 +25,7 @@
 * [Stefan Borsje on "How we build microservices at Karma"](https://blog.yourkarma.com/building-microservices-at-karma "")
 * [Toby Clemson's slide deck on "Testing Strategies in a Microservice Architecture"](http://martinfowler.com/articles/microservice-testing/ "")
 * [Vivek Juneja on "Microservices: Four Essential Checklists when Getting Started"](http://thenewstack.io/microservices-four-essential-checklists-getting-started "")
+* [Benjamin Wootton of Contino on "Microservices - Not A Free Lunch!"](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
