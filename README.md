@@ -58,6 +58,7 @@
 * [Armon Dadgar at Ricon 2014 talking about "Consul: Service Oriented at Scale"](https://www.youtube.com/watch?v=eR0899h_1Ac "")
 * [Jason Robey's (Nike) talk at AWS re:Invent 2014 on Nike's Journey to Microservices](https://www.youtube.com/watch?v=h30ViSEZzW0 "")
 * [Neal Ford (ThoughtWorks) at JavaZone 2015 on "Building Microservice Architectures"](https://vimeo.com/138956644?ref=tw-share "")
+* [Zhamak Dehghani's talk at GOTO Copenhagen 2015 on "The Yellow Brick Road: Taking Microservices Home In Large Enterprises"](https://www.youtube.com/watch?v=mrlgzFfR2Bc&feature=youtu.be "")
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
