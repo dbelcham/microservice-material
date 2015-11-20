@@ -61,6 +61,7 @@
 * [Zhamak Dehghani's talk at GOTO Copenhagen 2015 on "The Yellow Brick Road: Taking Microservices Home In Large Enterprises"](https://www.youtube.com/watch?v=mrlgzFfR2Bc&feature=youtu.be "")
 * [Rachel Reese's talk at Oredev 2015 on "Patterns and Practices for Real-World Event-Driven Microservices"] (https://vimeo.com/144692770 )
 * [Richard Rodger's (nearForm) talk at Future Insights 2015 on "Measuring Micro-Services"] (https://futureinsights-1.wistia.com/medias/2wy9i3xzy3)
+* [Sam Newman's (Thoughtworks) Berlin Microservices Meetup 2015 talk on "Securing Microservices"](https://www.youtube.com/watch?v=fXpbHYYvtmg)
 
 #Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
