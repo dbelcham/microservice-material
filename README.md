@@ -29,6 +29,7 @@
 * [Benjamin Wootton of Contino on "Microservices - Not A Free Lunch!"](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html "")
 * [Phil Calcado on "How we ended up with microservices"](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html "")
 * [James Governor on "Microservices and Disposability: On Cattle, Pets, Prize Bulls, Wildebeests and Crocodiles"](http://redmonk.com/jgovernor/2015/09/10/microservices-and-disposability-on-cattle-pets-prize-bulls-wildebeests-and-crocodiles/ "")
+* [RisingStack on "How Enterprises Benefit from using Microservices"](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
@@ -73,6 +74,7 @@
 ##Correlation IDs
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
 * [Loggly talks about "Request IDs"](https://www.loggly.com/blog/monitoring-microservices-three-ways-to-overcome-the-biggest-challenges "")
+* [RisingStack on using correlation ID's for microservices monitoring](https://blog.risingstack.com/distributed-transaction-tracing-microservices-monitoring/)
 
 ##Consumer Driven Contracts
 * Consumer Driven Contracts - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
