@@ -30,6 +30,7 @@
 * [Phil Calcado on "How we ended up with microservices"](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html "")
 * [James Governor on "Microservices and Disposability: On Cattle, Pets, Prize Bulls, Wildebeests and Crocodiles"](http://redmonk.com/jgovernor/2015/09/10/microservices-and-disposability-on-cattle-pets-prize-bulls-wildebeests-and-crocodiles/ "")
 * [Segment: Rebuilding our infrastructure with Docker, ECS, and TerraForm](https://segment.com/blog/rebuilding-our-infrastructure/ "")
+* [Segment: The Segment aws stack for easily managing microservices in AWS](https://segment.com/blog/the-segment-aws-stack/ "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
