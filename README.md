@@ -29,6 +29,7 @@
 * [Benjamin Wootton of Contino on "Microservices - Not A Free Lunch!"](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html "")
 * [Phil Calcado on "How we ended up with microservices"](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html "")
 * [James Governor on "Microservices and Disposability: On Cattle, Pets, Prize Bulls, Wildebeests and Crocodiles"](http://redmonk.com/jgovernor/2015/09/10/microservices-and-disposability-on-cattle-pets-prize-bulls-wildebeests-and-crocodiles/ "")
+* [Segment: Rebuilding our infrastructure with Docker, ECS, and TerraForm](https://segment.com/blog/rebuilding-our-infrastructure/ "")
 
 #Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
