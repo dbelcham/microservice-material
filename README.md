@@ -1,4 +1,4 @@
-#Articles
+# Articles
 * [What Starbucks can teach us about software scalability](http://particular.net/blog/what-starbucks-can-teach-us-about-software-scalability)
 * [HailO's journey from monolith to microservices Part 1](https://sudo.hailoapp.com/services/2015/03/09/journey-into-a-microservice-world-part-1 "")
 * [HailO's journey from monolith to microservices Part 2](https://sudo.hailoapp.com/services/2015/03/09/journey-into-a-microservice-world-part-2/ "")
@@ -30,11 +30,11 @@
 * [Phil Calcado on "How we ended up with microservices"](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html "")
 * [James Governor on "Microservices and Disposability: On Cattle, Pets, Prize Bulls, Wildebeests and Crocodiles"](http://redmonk.com/jgovernor/2015/09/10/microservices-and-disposability-on-cattle-pets-prize-bulls-wildebeests-and-crocodiles/ "")
 
-#Books
+# Books
 * [O'Reilly (free with registration) - Migrating to Cloud-Native Application Architectures](http://pivotal.io/platform-as-a-service/migrating-to-cloud-native-application-architectures-ebook "")
 * [O'Reilly - Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/ref=sr_1_sc_1?ie=UTF8&qid=1437578452&sr=8-1-spell&keywords=orielly+microservices "")
 
-#Videos
+# Videos
 * [Udi Dahan at µCon 2014 talking about "An Integrated Services Approach"](http://www.udidahan.com/2015/07/21/microservices-presentation-london-2014/ "")
 * [Adrian Cockcroft at DockerCon 2014-EU on "State of the Art in Microservices"](https://www.youtube.com/watch?v=nMTaS07i3jk "")
 * Adrian Cockcroft at the Silicon Valley Microservices Meetup 2014 on Migrating to Microservices [Part 1](https://www.youtube.com/watch?v=1wiMLkXz26M "") -- [Part 2](https://www.youtube.com/watch?v=ebCtNmTVIJY "")
@@ -64,27 +64,27 @@
 * [Richard Rodger's (nearForm) talk at Future Insights 2015 on "Measuring Micro-Services"] (https://futureinsights-1.wistia.com/medias/2wy9i3xzy3)
 * [Sam Newman's (Thoughtworks) Berlin Microservices Meetup 2015 talk on "Securing Microservices"](https://www.youtube.com/watch?v=fXpbHYYvtmg)
 
-#Podcasts
+# Podcasts
 * [WesternDevs discussion on Microservices](http://www.westerndevs.com/podcasts/podcast-microservices/ "")
 * [Software Engineering Radio #213: James Lewis on Microservices](http://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices "")
 * [.NET Rocks #1150: Building Microservices with Howard Dierking](https://www.dotnetrocks.com/default.aspx?showNum=1150)
 
-#Tooling, Techniques and Platforms
-##Correlation IDs
+# Tooling, Techniques and Platforms
+## Correlation IDs
 * [Yan Cui on implementing correlation IDs in a .NET stack](http://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/ "")
 * [Loggly talks about "Request IDs"](https://www.loggly.com/blog/monitoring-microservices-three-ways-to-overcome-the-biggest-challenges "")
 
-##Consumer Driven Contracts
+## Consumer Driven Contracts
 * Consumer Driven Contracts - [Pact](https://github.com/realestate-com-au/pact "") and [PactNet](https://github.com/SEEK-Jobs/pact-net "")
 * [Fowler on Consumer Driven Contracts](http://martinfowler.com/articles/consumerDrivenContracts.html "")
 
-##Service Discovery
+## Service Discovery
 * Consul
 * Zookeeper
 * Eureka
 
-##Resiliency and Reliability
+## Resiliency and Reliability
 
 
-##Load Balancing
+## Load Balancing
 * [Baker Street](www.bakerstreet.io "")
